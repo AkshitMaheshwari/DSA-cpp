@@ -1,0 +1,23 @@
+
+For finding time space and complexity we have a theorem
+which is known as master's theorem (basically time 
+complexity of divide and conqure algorithms):
+
+In Master's Theorem :
+
+T(n) = aT(n/b) + Q(n^k*logn(p))
+a>=1 , b>=1, k>=0
+
+if logb(a)>k -> T(n) = Q(nlogb(a))
+
+if logb(a)=k -> if p>-1, Q(n^k*logn(p+1))
+                 
+                if p=-1, Q(n^k*log(logn(n)))
+
+                if p<-1, Q(n^k)
+
+if logb(a)<k -> if p>=0, Q(n^k*logn(p))
+
+                if p<0,  Q(n^k)
+
+  

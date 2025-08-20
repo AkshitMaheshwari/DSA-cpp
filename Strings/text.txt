@@ -1,0 +1,27 @@
+Davision and grammer experiment:
+
+(1) Davisionand grammer gave first experimental evidence of matter wave predicted by 
+de-brogile
+
+(2) This experiment not inly confirmed the existence of waves associated with fast moving 
+electrons but also measured the wavelength of matter wave 
+
+(3) The experimental setup consist of an electron gun having tungsten filanment which is 
+heated by passing electric current from low tension battery
+
+(4) Due to thermionic emissions electrons are emitted by filanment and these electrons are
+emitted by the filanment and these electrons are then accelerated under suitable potential
+difference provided by high tension battery
+
+(5) The narrow beam of electrons comes out form cylinder is allowed to fall on the surface 
+of a nickel crystal 
+
+(6) The electrons, scattered in different directions by the atoms of nickel crystal are 
+required by a movable detector which is just an electron collector 
+
+(7) The electron collection is converted with an galvanometer 
+
+(8) The deflection (G) is directly proportional to the intensity of electric beam entering
+the collector 
+
+(9) The entire apparatus is enclosed in vacumm chamber
