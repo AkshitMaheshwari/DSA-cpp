@@ -16,9 +16,7 @@ vector<int> getPrimes(int N,int M){
                 mprimes.push_back(i);
                 cnt++;
             }
-            if(cnt>=M){
-                break;
-            }
+            
         }
     }
     return mprimes;

@@ -136,7 +136,10 @@ int main(){
     display(head);  
     // reverseLL(head);
     // display(head);
-    reverseOrder(head);        
+    head = reverseLL(head);       
+    display(head);
+    reverseOrder(head);
+
     return 0;                
 }                          
 
